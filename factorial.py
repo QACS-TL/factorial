@@ -1,4 +1,5 @@
 import os
+import time
 
 def factorial(num):
     factorial = 1
