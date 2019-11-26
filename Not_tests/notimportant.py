@@ -1,7 +1,7 @@
 import os
 import time
 
-def factorial(num):
+def fact(num):
     factorial = 1
     if num == 0:
         print("The factorial of 0 is 1")
