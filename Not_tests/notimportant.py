@@ -96,4 +96,4 @@ def clear():
     
 if __name__ == "__main__":
     main()
-    # a comment is a BLUE banana
+    # a comment is a RED banana
